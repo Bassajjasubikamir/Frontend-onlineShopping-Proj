@@ -1,6 +1,6 @@
 import React from 'react'
 import Prod8 from '../assets/Prod8.jpg'
-import '../styles/about.css'
+import '../styles/About.css'
 function About() {
   return (
     <div className="about">
