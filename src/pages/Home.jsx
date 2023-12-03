@@ -1,6 +1,6 @@
 import React from 'react'
 import Slider from '../components/Slider'
-import Popular from '../components/popular/popular'
+import Popular from '../components/Popular/Popular'
 import Sample from '../components/Sample'
 
 function home() {
